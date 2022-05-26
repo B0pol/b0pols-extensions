@@ -392,7 +392,7 @@ const paperback_extensions_common_1 = require("paperback-extensions-common");
 const CM_DOMAIN = "https://coloredmanga.com";
 exports.ColoredMangaInfo = {
     version: '0.0.1',
-    name: "ColoredMange",
+    name: "ColoredManga",
     icon: "icon.png",
     author: "Bopol",
     description: "Extension that pulls manga from ColoredManga.",
