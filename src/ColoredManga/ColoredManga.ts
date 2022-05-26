@@ -16,7 +16,7 @@ const CM_DOMAIN = "https://coloredmanga.com"
 
 export const ColoredMangaInfo: SourceInfo = {
     version: '0.0.1',
-    name: "ColoredMange",
+    name: "ColoredManga",
     icon: "icon.png",
     author: "Bopol",
     description: "Extension that pulls manga from ColoredManga.",
