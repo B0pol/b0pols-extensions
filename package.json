@@ -1,8 +1,10 @@
 {
   "name": "bopol-extensions",
   "version": "0.0.1",
-  "description": "Bopol's extensions for 0.6!",
   "main": "index.js",
+  "repositoryName": "Bopol's extensions (0.6)",
+  "description": "Bopol's extensions for 0.6!",
+  "baseURL": "https://b0pol.github.io/b0pols-extensions",
   "scripts": {
     "bundle": "paperback bundle",
     "serve": "paperback serve",
@@ -10,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Paperback-iOS/extensions-official.git"
+    "url": "git+https://github.com/B0pol/b0pols-extensions.git"
   },
   "author": "Bopol",
   "license": "GPL-3.0-or-later",
