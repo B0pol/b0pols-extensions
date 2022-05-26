@@ -1,0 +1,1 @@
+{"buildTime":"2022-05-26T13:59:30.134Z","sources":[{"id":"ColoredManga","name":"ColoredMange","author":"Bopol","desc":"Extension that pulls manga from ColoredManga.","contentRating":"EVERYONE","version":"0.0.1","icon":"icon.png","websiteBaseURL":"https://coloredmanga.com"}],"builtWith":{"cli":"2.0.0-alpha.10","commons":"4.3.5"}}
